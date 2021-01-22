@@ -1,1 +1,1 @@
-# aof-dev.github.io
+AOF (All Of Funs) Software Development Organization
