@@ -12,7 +12,7 @@ AOF其实是 After Our Friday 的缩写，翻译过来的意思是“放假后�
 
 [ **团队主页** ](https://github.com/AOF-Dev)
 
- **团队成员有：  **
+ **团队成员**
 
 - 龙俊宇（发起人，MCinabox的主要作者，贴吧ID天使程序员）  
 - JVM（Boat的主要作者）  
