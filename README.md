@@ -1,5 +1,7 @@
 # AOF (All Of Funs) Software        Development Organization
 
+[now is Engish] [zh-CN](./README_zh-cn.md)
+
 ### *Who* we are?
 
 An open source organization from China
