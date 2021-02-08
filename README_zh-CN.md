@@ -14,7 +14,7 @@ AOF其实是 After Our Friday 的缩写，翻译过来的意思是“放假后�
 
  [**团队成员**](https://github.com/orgs/AOF-Dev/people)
 
-- 龙俊宇（发起人，MCinabox的主要作者，贴吧ID天使程序员）  
+- longjunyu2（发起人，MCinabox的主要作者，贴吧ID天使程序员）  
 - JVM（Boat的主要作者）  
 - 風
 - lambda  
@@ -29,9 +29,9 @@ AOF其实是 After Our Friday 的缩写，翻译过来的意思是“放假后�
 
 &emsp;&emsp;时间可以追溯到2014年，当时，美籍华裔的张卓为做出了应该是第一个在安卓手机上运行JAVA版MC的软件——`BoardWalk`。  
 &emsp;&emsp;卓伟的`BoardWalk`有两个版本，一个是岷叔曾经做过视频的用[DVM](#虚拟机)虚拟机的版本，一个是用[JVM](#虚拟机)虚拟机的版本（版本号为1.9）。 [(两者的区别)](#虚拟机)  
-&emsp;&emsp;当时的BoardWalk并不稳定，而且不开源，原作者张卓为也在互联网上销声匿迹了好几年，为了获得更好的游戏体验，贴吧里掀起了逆向魔改BoardWalk热潮。正是这个契机，我们的龙俊宇同学激发了学习编程的念头。  
-&emsp;&emsp;龙俊宇一边学习JAVA、Smali，一边逆向BoardWalk和外网的khanhduytran0制作的另一个修改版——`MinecraftLauncher`。在张卓伟开源BoardWalk前，龙俊宇做出了用于安卓6及以下的BoardWalk ice，和用于安卓6以上的`MinecraftLauncher icesty`（在这之前还有零零碎碎的很多版本）。因为是逆向工程的产品，出于版权原因，这两个版本都只在BoardWalk吧的qq群里发布过（不过还是被人外传了）。  
-&emsp;&emsp;2019年，BoardWalk开源了。JVM修改其源码并自行编译JVM，做出了Boat。由于JVM的手机是32位处理器的，他只编译了32位的JVM。之后，龙俊宇和JVM还有其他几名开发者开始共同开发MCinabox。由于JVM的手机是32位以及他的电脑磁盘空间不足~~最主要还是因为他想摸鱼~~，64位的JVM拖了很久才在JVM的帮助下由龙俊宇编译出来。  
+&emsp;&emsp;当时的BoardWalk并不稳定，而且不开源，原作者张卓为也在互联网上销声匿迹了好几年，为了获得更好的游戏体验，贴吧里掀起了逆向魔改BoardWalk热潮。正是这个契机，我们的longjunyu2同学激发了学习编程的念头。  
+&emsp;&emsp;longjunyu2一边学习JAVA、Smali，一边逆向BoardWalk和外网的khanhduytran0制作的另一个修改版——`MinecraftLauncher`。在张卓伟开源BoardWalk前，longjunyu2做出了用于安卓6及以下的BoardWalk ice，和用于安卓6以上的`MinecraftLauncher icesty`（在这之前还有零零碎碎的很多版本）。因为是逆向工程的产品，出于版权原因，这两个版本都只在BoardWalk吧的qq群里发布过（不过还是被人外传了）。  
+&emsp;&emsp;2019年，BoardWalk开源了。JVM修改其源码并自行编译JVM，做出了Boat。由于JVM的手机是32位处理器的，他只编译了32位的JVM。之后，longjunyu2和JVM还有其他几名开发者开始共同开发MCinabox。由于JVM的手机是32位以及他的电脑磁盘空间不足~~最主要还是因为他想摸鱼~~，64位的JVM拖了很久才在JVM的帮助下由longjunyu2编译出来。  
 
 ### <span id="虚拟机">DVM和JVM虚拟机</span>
 
